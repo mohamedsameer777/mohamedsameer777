@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Mohammed Sameer
 
-<!--
-**mohammedsameer777/mohammedsameer777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Django Backend Developer
 
-Here are some ideas to get you started:
+I build backend systems, REST APIs, and real-time web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+- Python
+- Django
+- Django REST Framework
+- WebSockets
+- PostgreSQL
+- HTML / CSS / JavaScript
+
+🚀 Projects
+
+1️⃣ Leave & Attendance Automation System  
+Tech: Django, Celery  
+Features:
+- Leave requests
+- Attendance tracking
+- Admin approvals
+
+2️⃣ Real-time Chat Application  
+Tech: Django Channels + WebSockets  
+Features:
+- Real-time messaging
+- Stored chat history
+
+3️⃣ Django REST API Backend  
+Tech: Django REST Framework  
+Features:
+- CRUD APIs
+- Authentication
+- API endpoints
+
+📫 Contact Me
+Email: your-email@gmail.com
+GitHub: https://github.com/mohammedsameer777
