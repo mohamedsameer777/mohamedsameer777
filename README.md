@@ -10,7 +10,8 @@ I build backend systems, REST APIs, and real-time web applications.
 - Django REST Framework
 - WebSockets
 - PostgreSQL
-- HTML / CSS / JavaScript
+- HTML / CSS
+- Render deployement
 
 🚀 Projects
 
