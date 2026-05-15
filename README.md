@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mohammed Sameer
+# Hi 👋 I'm Mohamed Sameer
 
 Python Django Backend Developer
 
