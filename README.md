@@ -14,7 +14,7 @@ I build backend systems, REST APIs, and real-time web applications.
 - Render deployement
 
   
-🌐 Portfolio → https://portfoliosameer007.netlify.app
+🌐 Portfolio → https://sameer-portfolio-007.netlify.app/
 
 🚀 Projects
 
